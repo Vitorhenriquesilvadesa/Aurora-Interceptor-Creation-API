@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AuroraInterceptorAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AuroraInterceptorAPI_jar</output-path>
+    <root id="archive" name="AuroraInterceptorAPI.jar">
+      <element id="module-output" name="AuroraInterceptorAPI" />
+    </root>
+  </artifact>
+</component>
